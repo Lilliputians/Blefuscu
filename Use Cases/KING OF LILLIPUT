@@ -1,0 +1,17 @@
+# Program that itself
+
+
+
+# Program / Code
+# Total characters: 29
+
+
+
+
+
+print(open(__file__).read()) 
+
+
+
+
+
